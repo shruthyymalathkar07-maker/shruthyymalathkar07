@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruthyy%20M%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20intelligent%2C%20real-world%20solutions&descAlignY=62&descSize=16" width="100%"/>
+p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruthyy+M+B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI+%26+Data+Science+Engineer+%7C+Building+intelligent%2C+real-world+solutions&descAlignY=58&descSize=16&reversal=false" width="100%"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Turning+Data+into+Intelligent+Products;Building+FuturePath+%E2%80%93+AI+Career+Guidance+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -13,7 +14,7 @@
 </p>
 
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
 ```python
 class Shruthyy:
