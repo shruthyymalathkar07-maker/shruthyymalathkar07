@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Turning+Data+into+Intelligent+Products;Building+FuturePath+%E2%80%93+AI+Career+Guidance+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Turning+Data+into+Intelligent+Products;Building+FuturePath+%E2%80%93+AI-Powered+Career+Guidance+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -176,5 +176,7 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
+
+
 
 
