@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Shruthyy+M+B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+%26+Data+Science+Engineer+%7C+Building+intelligent%2C+real-world+solutions&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Shruthyy+M+B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+and+Data+Science+Engineer+%7C+Building+intelligent%2C+real-world+solutions&descAlignY=58&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ class Shruthyy:
             "Cloud-native AI deployment"
         ]
 
-        self.fun_fact = "I once fine-tuned a translation model before I fine-tuned my sleep schedule."
+        self.fun_fact = "Fine-tuned an NMT model before I fine-tuned my sleep schedule."
 
     def motto(self):
         return "Build it clean. Ship it real. Learn something every time."
@@ -103,10 +103,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/shruthyymalathkar07">
-    <img src="https://github-readme-stats.vercel.app/api?username=shruthyymalathkar07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shruthyymalathkar07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
   </a>
   <a href="https://github.com/shruthyymalathkar07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthyymalathkar07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthyymalathkar07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10" height="165"/>
   </a>
 </div>
 
@@ -115,7 +115,7 @@ print(me.motto())
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shruthyymalathkar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shruthyymalathkar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6"/>
 </div>
 
 ## 💼 Work Experience
@@ -193,3 +193,4 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
+
