@@ -135,7 +135,7 @@ print(me.motto())
 |---|---|---|
 | **[FuturePath — AI Career Guidance Platform](https://github.com/shruthyymalathkar07-maker/FuturePath-final-source)** | React Native, Node.js, REST APIs, LLM, Render | End-to-end AI-powered career guidance platform with personalized career journeys, resume analysis, and a context-aware career chatbot; backend deployed on Render with Android packaging via Capacitor |
 | **[AI-Based Banana Leaf Disease Detection](https://github.com/shruthyymalathkar07-maker/banana_leaf_disease_detection)** | TensorFlow, Keras, MobileNetV2, CNN | Transfer-learning model classifying banana leaf diseases and severity; multilingual, farmer-centric decision support system reducing crop loss through early detection |
-| **[Zara — AI Personal Operating System](https://github.com/shruthyymalathkar07)** | Python, Gemini API, LLM, Real-time APIs | Voice-driven AI personal assistant with conversational interaction, task execution, and real-time API integrations powered by Gemini for advanced NLU |
+| **[Zara — AI Personal Operating System](https://github.com/shruthyymalathkar07-maker/zara)** | Python, Gemini API, LLM, Real-time APIs | Voice-driven AI personal assistant with conversational interaction, task execution, and real-time API integrations powered by Gemini for advanced NLU |
 
 </div>
 
