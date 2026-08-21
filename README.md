@@ -1,7 +1,6 @@
-p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruthyy+M+B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI+%26+Data+Science+Engineer+%7C+Building+intelligent%2C+real-world+solutions&descAlignY=58&descSize=16&reversal=false" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Shruthyy+M+B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+%26+Data+Science+Engineer+%7C+Building+intelligent%2C+real-world+solutions&descAlignY=58&descSize=17" width="100%"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Turning+Data+into+Intelligent+Products;Building+FuturePath+%E2%80%93+AI+Career+Guidance+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -13,8 +12,7 @@ p align="center">
   <img src="https://komarev.com/ghpvc/?username=shruthyymalathkar07&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
 </p>
 
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
 ```python
 class Shruthyy:
@@ -48,7 +46,6 @@ print(me.motto())
 ```
 
 <br clear="right"/>
-
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -104,7 +101,6 @@ print(me.motto())
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-
 <div align="center">
   <a href="https://github.com/shruthyymalathkar07">
     <img src="https://github-readme-stats.vercel.app/api?username=shruthyymalathkar07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
@@ -118,16 +114,9 @@ print(me.motto())
   <img src="https://streak-stats.demolab.com?user=shruthyymalathkar07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruthyymalathkar07&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-</div>
-
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shruthyymalathkar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
-
 
 ## 💼 Work Experience
 
@@ -155,7 +144,6 @@ print(me.motto())
 
 </details>
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -167,7 +155,6 @@ print(me.motto())
 | **[Zara — AI Personal Operating System](https://github.com/shruthyymalathkar07)** | Python, Gemini API, LLM, Real-time APIs | Voice-driven AI personal assistant with conversational interaction, task execution, and real-time API integrations powered by Gemini for advanced NLU |
 
 </div>
-
 
 ## 🏆 Achievements & Certifications
 
@@ -181,7 +168,6 @@ print(me.motto())
 | 🐍 | Python with Data Analysis | NSIC Certified |
 
 </div>
-
 
 ## 🎓 Education
 
@@ -205,5 +191,5 @@ print(me.motto())
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
